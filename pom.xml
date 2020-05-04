@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.tallertdd</groupId>
-    <artifactId>numerosromanos</artifactId>
+    <artifactId>tdd-numeros</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>numerosromanos</name>
+    <name>tdd-numeros</name>
     <description>Taller de TDD con Números Romanos</description>
 
     <properties>
