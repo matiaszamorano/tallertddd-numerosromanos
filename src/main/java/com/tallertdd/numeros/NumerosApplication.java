@@ -1,13 +1,13 @@
-package com.tallertdd.numerosromanos;
+package com.tallertdd.numeros;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NumerosromanosApplication {
+public class NumerosApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NumerosromanosApplication.class, args);
+		SpringApplication.run(NumerosApplication.class, args);
 	}
 
 }
