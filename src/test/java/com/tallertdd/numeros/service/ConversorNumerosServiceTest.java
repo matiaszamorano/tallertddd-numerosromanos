@@ -14,17 +14,17 @@ import org.junit.Test;
  * 2 - No se puede escribir más que lo necesario para que falle un test unitario.
  * 3 - No se puede escribir más código productivo del estrictamente necesario para hacer pasar un test.
  */
-public class TraductorNumerosRomanosServiceTest {
+public class ConversorNumerosServiceTest {
     
     @Test
-    public void traducirARomano_conUno_devuelveI() {
+    public void convertirEntero_conString1_devuelve1() {
         //preparo escenario
-//        int enteroATraducir = 1;
+//        String numero = "1";
 
         //ejecuto
-//        String resultado = TraductorNumerosRomanosService.traducirARomano(enteroATraducir);
+//        Integer resultado = ConversorNumerosService.convertirEntero(numero);
 
         //valido
-//        assertThat(resultado).isEqualTo("I");
+//        assertThat(resultado).isEqualTo(1);
     }
 }
